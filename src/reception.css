@@ -1,0 +1,126 @@
+.sendBtn {
+    background-color: rgb(99, 63, 255);
+    color: white;
+    border-radius: 20px;
+    width: 150px;
+    border: none;
+    padding: 7px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.reception {
+    background-color: aliceblue;
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.endTreatment {
+    background-color: rgb(255, 63, 63);
+    color: white;
+    border-radius: 20px;
+    width: 100px;
+    border: none;
+    padding: 7px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.moveToHeadBtn {
+    background-color: rgb(255, 63, 63);
+    color: white;
+    border-radius: 20px;
+    width: 150px;
+    border: none;
+    padding: 7px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.getNumber {
+    background-color: rgb(255, 63, 63);
+    color: white;
+    border-radius: 20px;
+    width: 100px;
+    border: none;
+    padding: 7px;
+    margin: 20px;
+    cursor: pointer;
+
+}
+
+.customer {
+    background-color: aliceblue;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.saveNumber {
+    font-size: 10pt;
+    margin-top: 20px;
+}
+
+.custScreen {
+    width: fit-content;
+    padding: 20px;
+    height: fit-content;
+    background-color: rgb(245, 245, 245);
+    border-radius: 10px;
+    margin: 20px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.roomScreen {
+    margin: 10px;
+    width: 220px;
+    height: 220px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center
+
+}
+
+.roomTitle {
+    background-color: aliceblue;
+    width: 150px;
+    padding: 5px;
+    border-radius: 15px;
+    font-size: 14pt;
+}
+.currentNum{
+    font-size: 40pt;
+    font-weight: 700;
+}
+
+.rooms{
+    width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+}
+.messages{
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    width:400px;
+    height: 550px;
+
+}
